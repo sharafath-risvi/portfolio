@@ -1,6 +1,6 @@
 import React from 'react';
 import { Github, Linkedin, Mail, Download } from 'lucide-react';
-import profile from "../assets/profile.jpeg";
+import profile from "../assets/profile.png";
 
 const Hero = () => {
   return (
